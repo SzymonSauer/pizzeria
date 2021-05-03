@@ -1,2 +1,2 @@
 # pizzeria
-The website of the pizzeria "Oregano".
+The website of the pizzeria 'Oregano'.
